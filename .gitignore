@@ -1,0 +1,17 @@
+# ignore ALL files in ANY directory named temp
+videos_old/
+infrared/
+demo_frames/
+hevi_test/
+
+
+/__pycache__
+
+
+*.csv
+*.npy
+*.npz
+*.jpg
+*.log
+*.pyc
+*.zip
